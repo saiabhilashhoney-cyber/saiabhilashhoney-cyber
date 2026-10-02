@@ -169,6 +169,29 @@ I enjoy experimenting with different approaches to AI and building practical sys
 * Machine Learning
 * Retrieval-Augmented Generation
 * Multi-Agent AI
+* Uses dual view state management
+
+`AI` `ML` `Computer Vision` `NLP` `RAG`
+
+</td>
+
+</tr>
+
+---
+
+<td width="50%" valign="top">
+
+### Nova Cart
+
+A web application built for loss recovery
+
+An AI based loss prervention application
+
+* framework using type.js and tailwind css
+* hosted in github and vercel
+* Machine Learning
+* Uses NLP for adding products
+* Multi-Agent AI
 * Intelligent Automation
 
 `AI` `ML` `Computer Vision` `NLP` `RAG`
